@@ -37,7 +37,7 @@ Before running the application, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-to-text-generator.git
+   git clone https://github.com/Nipurn123/image-to-text-generator.git
    ```
 
 2. Navigate to the project directory:
