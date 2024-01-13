@@ -1,6 +1,4 @@
-GitHub doesn't support direct embedding of video files in READMEs. However, you can use an external service to host your video file and embed it in the README. One common option is to use YouTube.
 
-Here's how you can modify the README to include a link to the video file in your GitHub repository:
 
 
 # Gemini-pro-Vision
@@ -15,7 +13,7 @@ This project demonstrates how to use the Gemini Pro Vision generative model from
 
 [![Video Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=BfMMGyn9fuc)
 
-**Note:** If you prefer to use the video directly from your GitHub repository, you can download the video and upload it to a cloud storage service like Google Drive. Get the shareable link and replace `YOUTUBE_VIDEO_ID` with the corresponding link.
+
 
 ## Table of Contents
 - [Getting Started](#getting-started)
