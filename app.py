@@ -26,7 +26,7 @@ def generate_text_from_image():
         recipe_description = response_image.parts[0].text
 
         # Example: Generate text from a prompt and an image
-        prompt = "Tell weher the pers "
+        prompt = "Your_Prompt , Anything related to image you want to ask."
         response_prompt_image = model.generate_content([prompt, image], stream=True)
         response_prompt_image.resolve()
         recipe_from_prompt = response_prompt_image.parts[0].text
