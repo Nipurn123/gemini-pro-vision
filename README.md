@@ -19,6 +19,7 @@ This project demonstrates how to use the Gemini Pro Vision generative model from
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Disclaimer](#disclaimer)
+- [Connect with me](#connect-with-me)
 
 ## Getting Started
 
@@ -94,5 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This application relies on Google Generative AI services. Make sure to comply with Google's terms of service and pricing information. Keep your API key secure.
 
-.    [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyLinkedInProfile-blue)](https://www.linkedin.com/in/nipurn-agarwal-08931a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-MyTwitterProfile-blue)](https://x.com/agarwal_nipurn?t=vtVyUpyoY9uR5n77bPMP6w&s=09) [![Instagram](https://img.shields.io/badge/Instagram-MyInstagramProfile-blue)](https://www.instagram.com/nipurn_ai?igsh=MTMyNTF1bjUxZThw)
+# Connect with me 
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyLinkedInProfile-blue)](https://www.linkedin.com/in/nipurn-agarwal-08931a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-MyTwitterProfile-blue)](https://x.com/agarwal_nipurn?t=vtVyUpyoY9uR5n77bPMP6w&s=09) [![Instagram](https://img.shields.io/badge/Instagram-MyInstagramProfile-blue)](https://www.instagram.com/nipurn_ai?igsh=MTMyNTF1bjUxZThw)
 
