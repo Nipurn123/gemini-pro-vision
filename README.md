@@ -14,9 +14,7 @@ This project demonstrates how to use the Gemini Pro Vision generative model from
 # Video Demo
 
 
-[//]: # (markdown)
 
-[//]: # (video: https://www.youtube.com/watch?v=BfMMGyn9fuc)
 
 
 
