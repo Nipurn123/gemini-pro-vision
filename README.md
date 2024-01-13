@@ -1,7 +1,7 @@
 # Gemini-pro-Vision
 
 
-Certainly! Here's an updated version of the README that includes a note about using `python3` and `pip3` for users with the latest version of Python:
+
 
 ```markdown
 # Image-to-Text Generator with Gemini Pro Vision API Key
