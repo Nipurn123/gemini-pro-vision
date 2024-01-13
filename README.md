@@ -69,7 +69,7 @@ Before running the application, make sure you have the following:
    python3 app.py
    ```
 
-5. Open your web browser and go to [http://localhost:5000/](http://localhost:5000/)
+5. Open your web browser and go to [http://localhost:5000/](http://127.0.0.1:5000)
 
 ## Usage
 
