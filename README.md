@@ -1,14 +1,21 @@
+GitHub doesn't support direct embedding of video files in READMEs. However, you can use an external service to host your video file and embed it in the README. One common option is to use YouTube.
+
+Here's how you can modify the README to include a link to the video file in your GitHub repository:
+
+
 # Gemini-pro-Vision
-
-
-
-
 
 # Image-to-Text Generator with Gemini Pro Vision API Key
 
 This project demonstrates how to use the Gemini Pro Vision generative model from Google Generative AI to generate text from images. Users can upload an image, and the application will provide generated text based on the content of the image.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=BfMMGyn9fuc)
+
+**Note:** If you prefer to use the video directly from your GitHub repository, you can download the video and upload it to a cloud storage service like Google Drive. Get the shareable link and replace `YOUTUBE_VIDEO_ID` with the corresponding link.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -98,4 +105,3 @@ This application relies on Google Generative AI services. Make sure to comply wi
 # Connect with me 
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyLinkedInProfile-blue)](https://www.linkedin.com/in/nipurn-agarwal-08931a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-MyTwitterProfile-blue)](https://x.com/agarwal_nipurn?t=vtVyUpyoY9uR5n77bPMP6w&s=09) [![Instagram](https://img.shields.io/badge/Instagram-MyInstagramProfile-blue)](https://www.instagram.com/nipurn_ai?igsh=MTMyNTF1bjUxZThw)
-
