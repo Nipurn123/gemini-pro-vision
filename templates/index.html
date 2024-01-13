@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image-to-Text Generator with API Key</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Image-to-Text Generator</h1>
+    <p>This web app uses the Gemini Pro Vision generative model to generate text from images.</p>
+    <form id="image-form" action="/generate_text_from_image" method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*">
+        <input type="submit" value="Generate Text">
+    </form>
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
