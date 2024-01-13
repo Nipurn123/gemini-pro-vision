@@ -18,7 +18,7 @@ This project demonstrates how to use the Gemini Pro Vision generative model from
 
 
 
-<iframe src="https://www.youtube.com/watch?v=BfMMGyn9fuc" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+<video src="https://www.youtube.com/watch?v=BfMMGyn9fuc" width="600" height="400" frameborder="0" allowfullscreen><video>
 
 
 Click on the image above to watch the video demonstration.
