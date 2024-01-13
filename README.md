@@ -3,7 +3,7 @@
 
 
 
-```markdown
+
 # Image-to-Text Generator with Gemini Pro Vision API Key
 
 This project demonstrates how to use the Gemini Pro Vision generative model from Google Generative AI to generate text from images. Users can upload an image, and the application will provide generated text based on the content of the image.
@@ -69,7 +69,7 @@ Before running the application, make sure you have the following:
    python3 app.py
    ```
 
-5. Open your web browser and go to [http://localhost:5000/](http://127.0.0.1:5000)
+5. Open your web browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## Usage
 
@@ -94,6 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This application relies on Google Generative AI services. Make sure to comply with Google's terms of service and pricing information. Keep your API key secure.
 
-```
 
-This addition informs users about the potential need to use `python3` and `pip3` when working with the latest version of Python.
+
