@@ -45,6 +45,7 @@ Before running the application, make sure you have the following:
 - [Python](https://www.python.org/) installed (version 3.x recommended)
 - [Pillow](https://python-pillow.org/) library for working with images (`pip install Pillow`)
 - [Flask](https://flask.palletsprojects.com/) web framework (`pip install Flask`)
+- [Google-Generativeai](https://console.cloud.google.com/) googleai package (`pip install google-generativeai`)
 - Google Generative AI API Key - Get your API key from the [Google Cloud Console](https://console.cloud.google.com/) and replace `'YOUR_API_KEY'` with your actual API key in `app.py`
 
 ### Installation
